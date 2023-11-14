@@ -2,4 +2,4 @@
 
 let textValue= "Hello World!";
 const headingElement = document.querySelector("h1");
-headingElement.textcontent = textValue;
+headingElement.textContent = textValue;
