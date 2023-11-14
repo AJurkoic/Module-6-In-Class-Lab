@@ -1,4 +1,5 @@
 // JavaScript basics tutorial
 
 let textValue= "Hello World!";
-const headingelement = document.querySelector("h1");
+const headingElement = document.querySelector("h1");
+headingElement.text = textValue;
