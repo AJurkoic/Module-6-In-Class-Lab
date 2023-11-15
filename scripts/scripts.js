@@ -5,4 +5,5 @@ const headingElement = document.querySelector("h1");
 headingElement.textContent = textValue;
 
 const imageElement = document.querySelector("img");
-imageElement.style.display = "none";
+//imageElement.style.display = "none";
+
