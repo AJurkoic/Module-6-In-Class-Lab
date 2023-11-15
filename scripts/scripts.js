@@ -7,3 +7,4 @@ headingElement.textContent = textValue;
 const imageElement = document.querySelector("img");
 //imageElement.style.display = "none";
 
+imageElement.classList.add("gone");
